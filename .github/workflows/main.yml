@@ -37,6 +37,9 @@ jobs:
     - name: Change base-tag in index.html from / to MinesweeperWeb
       run: cd MinesweeperWeb && sed -i 's/<base href="\/" \/>/<base href="\/MinesweeperWeb\/" \/>/g' release/wwwroot/index.html
 
+    - name: Change base-tag in 404.html from / to MinesweeperWeb
+      run: cd MinesweeperWeb && sed -i 's/<base href="\/" \/>/<base href="\/MinesweeperWeb\/" \/>/g' release/wwwroot/404.html
+
         # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
     - name: Add .nojekyll file
       run: cd MinesweeperWeb && touch release/wwwroot/.nojekyll
