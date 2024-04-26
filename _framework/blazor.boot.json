@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MinesweeperWeb",
   "resources": {
-    "hash": "sha256-BdR3DS4eJh03n5VvKiRbry+ZdoPTLIfL+xJoHyPrXfE=",
+    "hash": "sha256-I76U1rW/TzA0QdFDMLYBgaxAMXQxS4/92Kp7zsTV50Q=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.6vlmefabfv.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-+Rt8iKATTcS4lJwzOVupnY95QLDIoKdW228hSCzBifg=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-i8yLC1pzEZMAPAHK2MyunJW81S6Tpyvwka9LDZSylx8=",
-      "MinesweeperWeb.wasm": "sha256-ZT+wqZjKamR4C9tl/O3b3Pq7iCT1C6jH+5ZTgNtvi5E=",
+      "MinesweeperWeb.wasm": "sha256-QZmA7V4sp+HQZbN6Z2U6k6jj+hWESlfvadR3o0QGk1M=",
       "System.Collections.Concurrent.wasm": "sha256-k4r1+XhsFEvXBhs1hrJE/dSmP7fw6sYmNdq9cb8oEic=",
       "System.Collections.NonGeneric.wasm": "sha256-tEsxUMnbeFUPKirN5Pa/E7jvMJPWTh+1wnJEXG5SjZ4=",
       "System.Collections.Specialized.wasm": "sha256-NThVk2WmFdIk3CUOnoJObTH/cirjwNeZ8FSEVvYtFgI=",
