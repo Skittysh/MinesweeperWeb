@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\obj\\Release\\net8.0\\compressed\\hz0s0sw20n.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\obj\\Release\\net8.0\\scopedcss\\bundle\\MinesweeperWeb.styles.css",
+      "PackagePath": "staticwebassets\\MinesweeperWeb.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\bomber.png",
+      "PackagePath": "staticwebassets\\bomber.png"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\flaggy.png",
+      "PackagePath": "staticwebassets\\flaggy.png"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\skitt\\RiderProjects\\MinesweeperWeb\\MinesweeperWeb\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MinesweeperWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MinesweeperWeb.props",
+      "PackagePath": "build\\MinesweeperWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MinesweeperWeb.props",
+      "PackagePath": "buildMultiTargeting\\MinesweeperWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MinesweeperWeb.props",
+      "PackagePath": "buildTransitive\\MinesweeperWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

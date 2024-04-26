@@ -1029,3 +1029,7 @@ C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\obj\Debug\net8.0\Mine
 C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\obj\Debug\net8.0\refint\MinesweeperWeb.dll
 C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\obj\Debug\net8.0\MinesweeperWeb.pdb
 C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\obj\Debug\net8.0\ref\MinesweeperWeb.dll
+C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\bin\Debug\net8.0\release\web.config
+C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\bin\Debug\net8.0\release\wwwroot\sample-data\weather.json
+C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\bin\Debug\net8.0\release\wwwroot\_framework\blazor.boot.json
+C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\obj\Debug\net8.0\MinesweeperWeb.sourcelink.json

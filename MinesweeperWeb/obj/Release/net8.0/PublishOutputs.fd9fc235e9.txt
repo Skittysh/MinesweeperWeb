@@ -1,0 +1,1 @@
+C:\Users\skitt\RiderProjects\MinesweeperWeb\MinesweeperWeb\release\web.config
