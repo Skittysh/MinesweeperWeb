@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MinesweeperWeb",
   "resources": {
-    "hash": "sha256-w2NSbgEFpl/vdOgg64k4Jt9hr3RInJPDn0RmpY/FM7Q=",
+    "hash": "sha256-mPwxcHoFs9yCkJs3L60IVMTi05xzQ3PfPecigz/ZubQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.xm9ysr8w4b.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "MinesweeperWeb.wasm": "sha256-dpUCGnsJrki1M6uDTSCxCJGTPRUJb205GOCfg6anENg="
+      "MinesweeperWeb.wasm": "sha256-lXMMAZprw9iUN/oXO6lbCp453xRt+uXl49kmhiMbr0U="
     },
     "pdb": {
-      "MinesweeperWeb.pdb": "sha256-INiQQ8zuzm3A8lkBMZxD6TI0H5X7QVO0Scvuw20erLs="
+      "MinesweeperWeb.pdb": "sha256-WtHXBTt1ial2kX2eUPkbwGLl1YrmuSvgeYpSJbWO4kM="
     }
   },
   "cacheBootResources": true,
