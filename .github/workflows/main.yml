@@ -37,7 +37,7 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.DEPLOYMINE }}
         BRANCH: pages
-        FOLDER: MinesweeperWeb/bin/Release/netstandard2.1/publish/wwwroot
+        FOLDER: MinesweeperWeb/bin/Release/net8.0/wwwroot
 
 
         
